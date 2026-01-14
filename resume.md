@@ -27,3 +27,4 @@ Nadine, AI Alignment Specialist based in St. Thomas, Ontario, CA. Expert in dete
 - Contributions to AI Olympiads.
 
 Download PDF resume: [resume.pdf] (upload separately).
+

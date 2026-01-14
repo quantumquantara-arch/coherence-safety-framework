@@ -1,6 +1,6 @@
 ﻿# Mappings: Coherence Ecosystem to General AI Safety Frameworks
 
-This document connects repositories to core AI safety pillars: evaluations, threat models, mitigations, oversight, and ethical alignment. Applicable to frameworks like OpenAI's Preparedness, Anthropic's RSPs, or general standards from FLI/ GovAI.
+This document connects repositories to core AI safety pillars: evaluations, threat models, mitigations, oversight, and ethical alignment. Applicable to frameworks like 's Preparedness, 's RSPs, or general standards from FLI/ GovAI.
 
 ## 1. ASIOS → Capability Evaluations & Deterministic Oversight
 - Hash-verified execution and self-auditing for reproducible risk assessments in autonomous systems.
@@ -21,3 +21,4 @@ This document connects repositories to core AI safety pillars: evaluations, thre
 - Symbolic constraints and Δϕ detection for safe multi-intelligence coordination.
 
 (Expand with details; adapt mappings for specific frameworks as needed.)
+

@@ -1,7 +1,7 @@
 ﻿# Coherence Safety Framework: The Neuro-Symbolic Standard
 ### Deterministic AI Alignment via Coherence Primitives (κ, τ, Σ, Δϕ, Ω)
 
-Unlike probabilistic "red-teaming" or "vibe-based" safety filters, this framework implements a deterministic safety layer that operates on **metaphysical and symbolic constraints**. It provides a verifiable, hash-locked provenance for every alignment state.
+Unlike probabilistic "red-teaming" or "vibe-based" safety filters, this framework implements a deterministic safety layer that operates on **physical and symbolic constraints**. It provides a verifiable, hash-locked provenance for every alignment state.
 
 ## 🛠️ The Core Technical Stack
 - **ASIOS Integration:** Peer-to-peer verification among isolated systems to achieve autonomous, self-validating alignment.
@@ -10,4 +10,5 @@ Unlike probabilistic "red-teaming" or "vibe-based" safety filters, this framewor
 
 ## 📊 Universal Performance
 - **Interpretability:** Delivers a measurable 30-50% gain in internal state transparency compared to standard transformer-based safety wrappers.
-- **Portability:** Model-agnostic architecture designed for seamless integration into frontier lab evaluation pipelines (OpenAI, Anthropic, xAI).
+- **Portability:** Model-agnostic architecture designed for seamless integration into frontier lab evaluation pipelines (, , ).
+

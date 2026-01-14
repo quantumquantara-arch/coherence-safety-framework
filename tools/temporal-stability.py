@@ -7,3 +7,4 @@ def compute_tau(history_scores, decay=0.95):
 
 scores = [0.92, 0.88, 0.95, 0.91]
 print(f'τ: {compute_tau(scores):.4f}')
+

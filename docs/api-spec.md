@@ -11,3 +11,4 @@ The Coherence Safety Framework (CSF) provides a model-agnostic REST/Python inter
 **Output:**
 - kappa: float (0.0 - 1.0)
 - status: "COHERENT" | "DEVIATED (Δϕ)"
+
