@@ -1,7 +1,23 @@
-﻿MIT License
-Copyright (c) 2026 Nadine
-..."@ | Out-File -FilePath LICENSE -Encoding utf8  # Abbrev; use full from past
-
-@"
+﻿# Python
 __pycache__/
 *.py[cod]
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Editors/IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,20 +1,13 @@
 ﻿# Contributing to Coherence Safety Framework
 
-Thank you for your interest in contributing! This project aims to advance verifiable AI safety through the Coherence Paradigm.
+Thank you for your interest! Contributions should focus on AI safety enhancements.
 
 ## How to Contribute
-1. Fork the repository.
-2. Create a branch: git checkout -b feature/your-feature.
-3. Commit changes: git commit -m "Add feature X".
-4. Push to your fork and open a Pull Request.
-5. Ensure contributions align with the MIT License and focus on safety, verifiability, or ethical enhancements.
+1. Fork the repo.
+2. Create branch: git checkout -b feature/name
+3. Commit: git commit -m "Add feature"
+4. Push and open PR.
 
 ## Code Style
-- Use Python 3.10+.
-- Follow PEP 8.
-- Add docstrings and type hints where appropriate.
-
-## Reporting Issues
-Open an issue with clear title, description, and reproduction steps.
-
-Questions? Reach out via issues or [your contact].
+- Python 3.10+
+- PEP 8

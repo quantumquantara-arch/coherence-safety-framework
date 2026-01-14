@@ -1,10 +1,9 @@
-﻿# Full Mappings to AI Safety Frameworks
+﻿# Detailed Mappings to AI Safety Frameworks
 
-## OpenAI Preparedness
-- ASIOS → Deterministic evals
-- Aureon Auditor → Provenance logging
+1. OpenAI Preparedness: ASIOS for evals, Aureon for threats.
+2. Anthropic RSP: Quantara-Core for thresholds.
+3. DeepMind: Veyn for foresight.
+4. xAI: Lumeren for communication.
+5. Meta: Auditor for open-source ethics.
 
-## Anthropic RSP
-- Quantara-Core → Threshold triggers
-
-(Full details as per our design: include DeepMind, xAI, Meta, etc.)
+References: PF 2024, RSP 2025, etc.

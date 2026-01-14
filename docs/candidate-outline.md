@@ -1,4 +1,5 @@
-﻿# Candidate Outline for AI Safety Roles
+﻿# Candidate Outline
 
-Unique strengths: Deterministic coherence for universal safety needs.
-Essential for xAI, OpenAI, etc.
+1. Unique Paradigm: Coherence as foundational.
+2. Auditing Tools: Hash-locked verifiability.
+3. Governance: Σ-risk for threats.
