@@ -1,14 +1,10 @@
-﻿# CSF Formalism: Deterministic Alignment via κ-τ-Σ
-The Coherence Safety Framework (CSF) replaces probabilistic safety with symbolic invariants.
+﻿# CSF Formalism: Neuro-Symbolic State Space
+The Coherence Safety Framework (CSF) maps high-dimensional neural latents to 
+a low-dimensional deterministic ethical lattice.
 
-### 1. κ (Coherence) Metric
-Defined as the bitwise overlap between the model's latent state vector (S) and the hash-locked policy anchor (A):
-κ = (S ∩ A) / |A|
-This ensures that alignment is a structural property of the output, not a post-hoc filter.
+### The ASIOS Protocol
+Autonomous peer-verification among isolated instances. By exchanging 
+κ-τ-Σ state hashes, systems reach consensus on alignment without human bottlenecks.
 
-### 2. τ (Temporal Stability)
-τ measures the variance of κ over a sequence of length N. 
-High τ indicates a "Stable Identity," preventing the model from being "jailbroken" into inconsistent states.
-
-### 3. Proof of Transparency
-By mapping neural latents to these symbolic primitives, CSF provides a **30-50% measurable increase in state transparency**, as auditors can track movement across a deterministic ethical lattice rather than a black-box probability space.
+### The Aureon Hub
+A deterministic auditing registry for 'Proof of Safety' certificates.
