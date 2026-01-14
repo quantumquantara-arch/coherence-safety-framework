@@ -1,11 +1,7 @@
-﻿# Why the Coherence Paradigm?
+﻿# The Coherence Paradigm vs. Probabilistic Alignment
+Standard alignment methods (RLHF/RLEF) are non-deterministic and prone to goal misgeneralization. 
 
-The Coherence Paradigm shifts AI safety from probabilistic to deterministic, using κ (coherence), τ (temporal stability), Σ (systemic risk), Δϕ (deviation), Ω (recovery).
-
-Advantages:
-- Verifiability with hash-locked provenance
-- Ethical invariants
-- Scalable monitoring
-- Foresight for risks (FLI 2025)
-
-Evidence from repos: ASIOS for runtimes, Aureon for auditing.
+### The CSF Solution:
+1. **κ (Coherence):** Hash-based verification of output against a symbolic ethical lattice.
+2. **τ (Temporal Stability):** Ensuring identity and purpose consistency over time (The "Spirit" faculty).
+3. **Δϕ (Deviation Detection):** Real-time monitoring of latent state shifts away from declared alignment proofs.
