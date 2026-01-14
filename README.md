@@ -25,3 +25,10 @@ Factually rooted in symbolic AI advancements (e.g., neuro-symbolic integration i
 - Compliant with NIST, EU, and ISO standards.
 
 License: MIT.
+
+## Additional Resources
+- docs/why-coherence.md: Deep dive into the paradigm.
+- docs/faq.md: Common questions answered.
+- 	ools/full-coherence-scorer.py: Advanced κ computation.
+- 	ools/temporal-stability.py: τ calculation.
+- ssets/coherence-lattice.txt: Visual representation.

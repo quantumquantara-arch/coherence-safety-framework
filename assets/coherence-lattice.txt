@@ -1,0 +1,9 @@
+﻿Coherence Lattice Visualization (Text Representation)
+
+          [κ Coherence Core]
+               /     \
+      [τ Temporal]   [Σ Systemic Risk]
+         /     \         /     \
+ [Δϕ Deviation] [Ω Recovery] [Ethical Invariants]
+ 
+Arrows represent bidirectional flow for adaptive safety.
