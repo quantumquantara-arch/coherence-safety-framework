@@ -1,0 +1,5 @@
+﻿Coherence Paradigm Diagram:
+[κ] --> [τ Stability] --> [Σ Risk Mitigation]
+       ^             |
+       |             v
+     [Δϕ Detection] <-- [Ω Recovery]
