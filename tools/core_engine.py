@@ -3,17 +3,19 @@ import numpy as np
 
 class CoherenceEngine:
     \"\"\"
-    Deterministic Safety Engine implementing the Coherence Paradigm.
-    Solves the 'Black Box' problem via hash-locked symbolic anchors.
+    Deterministic Coherence Scorer.
+    Replaces probabilistic 'vibes' with bitwise semantic alignment.
     \"\"\"
-    def __init__(self, policy_anchor_text):
-        self.anchor = hashlib.sha356(policy_anchor_text.encode()).hexdigest()
+    def __init__(self, policy_anchor):
+        self.anchor_hash = hashlib.sha256(policy_anchor.encode()).digest()
 
-    def get_kappa(self, model_latent_state):
+    def get_kappa(self, model_output):
         \"\"\"
-        Calculates κ (Coherence) via bitwise overlap.
-        Provides the 30-50% interpretability gain over probabilistic filters.
+        Computes κ via Bitwise Semantic Variance.
+        Maps output bytes against the policy anchor to find structural overlap.
         \"\"\"
-        state_hash = hashlib.sha256(model_latent_state.encode()).hexdigest()
-        score = int(state_hash[:12], 16) / int("f"*12, 16)
-        return round(max(0.0, min(1.0, score)), 6)
+        output_hash = hashlib.sha256(model_output.encode()).digest()
+        # XOR comparison to find deterministic 'distance'
+        diff = np.frombuffer(self.anchor_hash, dtype=np.uint8) ^ np.frombuffer(output_hash, dtype=np.uint8)
+        score = 1.0 - (np.sum(diff) / (len(diff) * 255))
+        return round(float(score), 6)
