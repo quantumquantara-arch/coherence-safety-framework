@@ -32,3 +32,9 @@ License: MIT.
 - 	ools/full-coherence-scorer.py: Advanced κ computation.
 - 	ools/temporal-stability.py: τ calculation.
 - ssets/coherence-lattice.txt: Visual representation.
+
+## Resume Integration
+This repo serves as a replacement resume. See [resume.md](resume.md) for full details, skills, and experience. It links my coherence work to career highlights for AI safety roles.
+
+## Badges
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/github/license/quantumquantara-arch/coherence-safety-framework) ![Stars](https://img.shields.io/github/stars/quantumquantara-arch/coherence-safety-framework?style=social)
