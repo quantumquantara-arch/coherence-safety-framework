@@ -1,11 +1,7 @@
-﻿__pycache__/
+﻿MIT License
+Copyright (c) 2026 Nadine
+..."@ | Out-File -FilePath LICENSE -Encoding utf8  # Abbrev; use full from past
+
+@"
+__pycache__/
 *.py[cod]
-*.pyc
-*.pyo
-*.pyd
-.Python
-env/
-venv/
-.venv/
-*.log
-.DS_Store
