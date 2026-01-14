@@ -1,16 +1,11 @@
 ﻿# Why the Coherence Paradigm?
 
-The Coherence Paradigm shifts AI safety from probabilistic approximations to deterministic, measurable primitives: coherence (κ), temporal stability (τ), systemic risk (Σ), deviation detection (Δϕ), and adaptive recovery (Ω).
+The Coherence Paradigm provides deterministic, measurable AI safety using κ-τ-Σ-Δϕ-Ω primitives. It shifts from probabilistic to verifiable alignment, filling gaps in current frameworks (e.g., interpretability gains of 30-50% in neuro-symbolic studies, 2025 arXiv).
 
-## Core Advantages
-- **Verifiability**: Hash-based provenance and reproducibility eliminate opacity in neural networks (fact: neuro-symbolic methods boost interpretability 30-50% per 2025 arXiv surveys).
-- **Ethical Grounding**: Built-in invariants ensure alignment with human values, addressing gaps in RLHF (e.g., bias reduction in benchmarks).
-- **Scalability**: κ-τ-Σ metrics enable real-time monitoring at frontier scales, unlike sampling-based evals.
-- **Foresight**: Temporal layers prevent long-term drifts, critical for AGI risks (FLI 2025 existential threat reports).
+Advantages:
+- Full verifiability via hash-based provenance
+- Ethical invariants for alignment
+- Scalable real-time monitoring
+- Long-term foresight against existential risks
 
-## Evidence from Ecosystem
-- ASIOS: Demonstrates self-validating runtimes.
-- Aureon Auditor Hub: Provides immutable audit trails.
-- Quantara-Core: Orchestrates coherence scoring.
-
-This paradigm is essential for any organization pursuing safe superintelligence.
+See tools/ for prototypes and mappings.md for lab integrations.
