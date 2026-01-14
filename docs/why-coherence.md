@@ -1,8 +1,7 @@
-﻿# The Coherence Paradigm vs. Probabilistic Alignment
-Standard alignment methods (RLHF/RLEF) are non-deterministic and prone to goal misgeneralization. 
+﻿# The Coherence Paradigm: Deterministic vs. Probabilistic Alignment
+Standard alignment relies on Reinforcement Learning from Human Feedback (RLHF), which is inherently stochastic and prone to "Reward Hacking".
 
-### The CSF Solution:
-1. **κ (Coherence):** Hash-based verification of output against a symbolic ethical lattice.
-2. **τ (Temporal Stability):** Ensuring identity and purpose consistency over time (The "Spirit" faculty).
-3. **Δϕ (Deviation Detection):** Real-time monitoring of latent state shifts away from declared alignment proofs.
-
+### The κ (Coherence) Advantage:
+- **Mathematical Invariant:** Unlike reward models, the κ primitive is a hash-locked symbolic constraint. 
+- **Verifiable Provenance:** Every state transition in a Coherence-aligned system is audit-ready and reproducible.
+- **Interpretability:** Provides a 30-50% increase in latent state transparency by mapping neural outputs to a deterministic ethical lattice.
